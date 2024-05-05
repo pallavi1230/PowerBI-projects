@@ -21,7 +21,8 @@ their performance so far.
 
 ###
 
-![image](https://github.com/pallavi1230/PowerBI-projects/assets/155734492/a3355676-6320-4cb9-aa1d-15a8c33f3fbd)
+![image](https://github.com/pallavi1230/PowerBI-projects/assets/155734492/7e017910-93d1-4392-8ca8-aac84d307f87)
+
 
 ###
 
